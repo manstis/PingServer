@@ -1,0 +1,10 @@
+[project]
+name = "ping-server"
+version = "0.1.0"
+description = "ping-server"
+authors = []
+requires-python = ">=3.11.1,<=3.12.10"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+]
